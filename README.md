@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Perry-chouteau
 - 👀 I’m interested in C, Bash, Docker, Quantum
-- 🌱 I’m currently learning C, and few other language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me perry.chouteau@epitech.eu
+- 🌱 I’m currently learning C, and few other language. 
+- 📫 How to reach me: - perry.chouteau@epitech.eu
+                      - https://www.linkedin.com/in/perry-chouteau-56292a206/
