@@ -1,6 +1,6 @@
 # Who am I.
 - 👋 Hi, I’m **@Perry-chouteau**
-- 👀 I’m interested in C, **Bash**, **Docker**, **Quantum** and **Software Craftmanship**.
+- 👀 I’m interested in **C**, **Bash**, **Docker**, **Quantum**, **BackEnd / FrontEnd** and **Software Craftmanship**.
 - 🌱 I’m currently learning **C**, and few other language.
 
 # 📫 *Linked-in:* 
