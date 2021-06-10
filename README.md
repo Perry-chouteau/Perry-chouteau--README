@@ -16,6 +16,5 @@
 <dd> 
   <a title="click on the picture !" href = "mailto: perry.chouteau@epitech.eu"> 
     perry.chouteau@epitech.eu <br>
-    <img src="https://newsroom.ionis-group.com/wp-content/uploads/2018/12/epitech-logo-signature-quadri.png" width="100" height="100">
   </a> 
 </dd>
