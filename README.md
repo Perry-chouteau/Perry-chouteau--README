@@ -1,7 +1,7 @@
 # Who am I.
-- 👋 Hi, I’m **@Perry-chouteau**
-- 👀 I’m interested in **BackEnd / FrontEnd** and **Software Craftmanship**.
-- 🌱 I’m currently learning **C**, and few other language.
+- 👋 Hi, I’m **Perry-chouteau**
+- 👀 I’m interested in **FullStack**, **Software Craftmanship**.
+- 🌱 I’m currently learning **C, Android Studio(Java) and few other language.
 
 # 📫 *Linked-in:* 
 
