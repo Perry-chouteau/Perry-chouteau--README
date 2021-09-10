@@ -14,6 +14,7 @@
 
 # 📫 *How to reach me:*
 <dd> 
+  Linkedin Account:
   <a title="click !" href = "mailto: perry.chouteau@epitech.eu"> 
     perry.chouteau@epitech.eu <br>
   </a> 
