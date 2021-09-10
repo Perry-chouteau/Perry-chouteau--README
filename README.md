@@ -6,7 +6,7 @@
 # 📫 *Linked-in:* 
 
 <dd>
-  Linkedin Account:
+  LinkedIn:
   <a title="click !" href="https://www.linkedin.com/in/perry-chouteau-56292a206/">
     Perry Chouteau <br>
     <img src="https://avatars.githubusercontent.com/u/72015188?s=400&u=fbaf25a97c8f3d15d0d0b3707433aec51df106b2&v=4" width="100" height="100">
@@ -15,7 +15,7 @@
 
 # 📫 *How to reach me:*
 <dd> 
-  Outlook Mail:
+  Outlook:
   <a title="click !" href = "mailto: perry.chouteau@epitech.eu"> 
     perry.chouteau@epitech.eu <br>
   </a> 
