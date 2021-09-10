@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/72015188?s=400&u=fbaf25a97c8f3d15d0d0b3707433aec51df106b2&v=4" width="100" height="100"/>
 
 # Who am I.
-- 👀 I’m interested in **FullStack**, **Software Craftmanship**
+- 👀 I’m interested in **FullStack**, **Android/iOS Devs**, **Docker** & make things work...
 - 🌱 I’m currently learning **C**, **Android Studio**, and few others languages.
 # 📫 *Linked-in:* 
 
