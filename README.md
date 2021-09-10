@@ -8,7 +8,7 @@
 <dd>
   <a title="click on the picture !" href="https://www.linkedin.com/in/perry-chouteau-56292a206/">
     Perry Chouteau <br>
-    <img src="https://user-images.githubusercontent.com/72015188/111552432-99c11c00-8782-11eb-97c6-12b67570722c.png" width="100" height="100">
+    <img src="https://avatars.githubusercontent.com/u/72015188?s=400&u=fbaf25a97c8f3d15d0d0b3707433aec51df106b2&v=4" width="100" height="100">
   </a> 
 </dd>
 
