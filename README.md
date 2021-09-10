@@ -1,11 +1,9 @@
 # Perry-chouteau/Readme.md
-
 <img src="https://avatars.githubusercontent.com/u/72015188?s=400&u=fbaf25a97c8f3d15d0d0b3707433aec51df106b2&v=4" width="100" height="100"/>
 
 # Who am I.
-- 👋 Hi, I’m **Perry-chouteau**
 - 👀 I’m interested in **FullStack**, **Software Craftmanship**
-- 🌱 I’m currently learning **C**, **Android Studio(Java)** and few other language.
+- 🌱 I’m currently learning **C**, **Android Studio**, and few others languages.
 # 📫 *Linked-in:* 
 
 <dd>
